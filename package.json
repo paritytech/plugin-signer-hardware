@@ -2,7 +2,7 @@
   "name": "@parity/plugin-signer-hardware",
   "version": "1.1.2",
   "description": "Signer plugin handler for sending transactions from hardware devices",
-  "main": "dist.js",
+  "main": "index.js",
   "scripts": {
     "build": "NODE_ENV=production webpack --colors --progress",
     "lint": "npm run lint:css && npm run lint:js",
